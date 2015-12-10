@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: 
+Dependencies: quantconf,com.pureblue.quant,org.apache.log4j,org.apache.commons.httpclient,org.apache.commons.math3,org.json,org.jsoup,org.apache.poi,org.joda.time
